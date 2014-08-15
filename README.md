@@ -2,6 +2,9 @@
 
 ## Episodio I: A Ameaça Fantasma
 
+Eh onde conhecemos o personagem Anakin, Outros personagens que
+tambem aparecem nees episodio Jabba
+
 ## Episodio II: Ataque dos Clones
 
 ## Episodio III: A Revolta dos Sith
