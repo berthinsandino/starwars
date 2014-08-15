@@ -7,6 +7,8 @@ tambem aparecem nees episodio Jabba
 
 ## Episodio II: Ataque dos Clones
 
+Agora o Anakin e um aprendiz de jedi.
+
 ## Episodio III: A Revolta dos Sith
 
 ## Episodio IV: Uma Nova Esperança
