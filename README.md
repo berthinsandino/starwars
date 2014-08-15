@@ -11,7 +11,7 @@ Agora o Anakin e um aprendiz de jedi.
 
 ## Episodio III: A Revolta dos Sith
 
-Não olhe este episodio.
+Não olhe este episodio. Updated finally!
 
 ## Episodio IV: Uma Nova Esperança
 
@@ -20,4 +20,3 @@ Há uma quebra temporal
 ## Episodio V: O Império Contra-Ataca
 
 ## Episodio VI: O Retorno de Jedi
-
