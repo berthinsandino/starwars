@@ -19,4 +19,8 @@ Há uma quebra temporal
 
 ## Episodio V: O Império Contra-Ataca
 
+Nesste episodio o império contra-ataca
+
 ## Episodio VI: O Retorno de Jedi
+
+Finalmente, o jedi retorna
