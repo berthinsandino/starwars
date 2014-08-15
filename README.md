@@ -11,7 +11,7 @@ Agora o Anakin e um aprendiz de jedi.
 
 ## Episodio III: A Revolta dos Sith
 
-Não olhe este episodio. Updated finally!
+Anakin transforma-se no Dark Vader.
 
 ## Episodio IV: Uma Nova Esperança
 
