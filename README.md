@@ -19,10 +19,8 @@ Há uma quebra temporal
 
 ## Episodio V: O Império Contra-Ataca
 
-Nesste episodio o império contra-ataca
+O personagem Luke começa seu treinamento jedi.
 
 ## Episodio VI: O Retorno de Jedi
 
-Finalmente, o jedi retorna
-
-Sem spoiler
+Luke e seus amigos, depois derotar Dark Vader, derrotam o Imperador.
